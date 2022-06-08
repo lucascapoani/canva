@@ -1,1 +1,3 @@
-# canva
+# Canvas
+
+Estudando elementos em canvas
